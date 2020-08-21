@@ -23,7 +23,7 @@ http://kimkim0814.pythonanywhere.com/
 
 ## 機能一覧
 - 投稿機能
-  -　編集機能及削除機能
+  - 編集機能及削除機能
 - 検索機能
 - ユーザーログイン
-  -　superuserによるログイン　ログアウト
+  - superuserによるログイン　ログアウト
